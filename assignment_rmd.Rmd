@@ -35,7 +35,7 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 
 setwd("C:/Users/johns/OneDrive/Documents/UNIVERSITY/Year 3/Computing/repro_r")
 
-#install.packages(c("ggplot2", "palmerpenguins", "dplyr", "janitor", "car", "ggpubr", "ragg", "multcomp","svglite", "tinytex"))
+install.packages(c("ggplot2", "palmerpenguins", "dplyr", "janitor", "car", "ggpubr", "ragg", "multcomp","svglite", "tinytex"))
 library("knitr")
 library("ggplot2")
 library("palmerpenguins")
